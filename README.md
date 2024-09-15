@@ -1,8 +1,13 @@
 <div align="center">
   <a href="www.linkedin.com/in/arjun-pimpale-8a836a28a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+
 </div>
+
+###
+
+<h1 align="center">Arjun Pimpale</h2>
 
 ###
 
@@ -12,11 +17,7 @@
 
 ###
 
-<h1 align="center">Arjun Pimpale</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -74,4 +75,3 @@
   <img src="https://streak-stats.demolab.com?user=ArjunPimpale&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
