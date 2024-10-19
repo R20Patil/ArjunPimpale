@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🎓Currently studying at Sardar Patel Institute of Technology.<br><br>🧑‍💻Passionate about Technology and Problem Solving. Looking forward to develop more skills.</p>
+<p align="left">🎓Currently studying at Sardar Patel Institute of Technology with.<br><br>🧑‍💻Passionate about Technology and Problem Solving. Looking forward to develop more skills. <br><br>Also working as an intern under a student named Rohan Patil.</p>
 
 ###
 
